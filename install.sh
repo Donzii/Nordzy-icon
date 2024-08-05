@@ -8,7 +8,7 @@ DEST_DIR=
 if [ "$UID" -eq "$ROOT_UID" ]; then
   DEST_DIR="/usr/share/icons"
 else
-  DEST_DIR="$HOME/.local/share/icons"
+  DEST_DIR="$HOME/.icons"
 fi
 
 SRC_DIR="$(cd "$(dirname "$0")" && pwd)"
