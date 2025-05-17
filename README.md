@@ -1,6 +1,10 @@
  Nordzy Icon Theme
 ======
 
+> [!NOTE]
+> This project was previously under the ownership of [@alvatip](https://github.com/alvatip), before retiring, and transferring the repository to me.
+> The document below is a verbatim copy of what they had written under their ownership.
+
 <p align="center">
 
 <img src="art/preview/theme_preview.png" alt="Nordzy logo">
